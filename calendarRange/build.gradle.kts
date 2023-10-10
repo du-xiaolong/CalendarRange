@@ -1,7 +1,7 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
-    id("com.github.dcendents.android-maven")
+    id("maven-publish")
 }
 group = "com.github.du-xiaolong"
 
