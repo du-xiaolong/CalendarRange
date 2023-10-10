@@ -1,6 +1,10 @@
 # CalendarDemo
 简单的日历区间选择弹窗
 
+截图：
+![Screenshot1](https://github.com/du-xiaolong/CalendarRange/blob/master/20231010_172021.png)
+![Screenshot1](https://github.com/du-xiaolong/CalendarRange/blob/master/20231010_172014.png)
+
 添加jitpack
 ```
 maven { url 'https://jitpack.io' }
